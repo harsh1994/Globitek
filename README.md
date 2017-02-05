@@ -20,7 +20,6 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://giphy.com/gifs/l3q2KVqTD0xUKw0g0' title='Codepath week 1' width='' alt='Video Walkthrough' />
+* [] https://giphy.com/gifs/l3q2KVqTD0xUKw0g0
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
